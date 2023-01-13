@@ -1,1 +1,1 @@
-# account-opening-service
+# account-opening
